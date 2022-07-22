@@ -35,3 +35,7 @@ func EncodeJson() {
 
 	fmt.Printf("%s\n", finalJson)
 }
+
+func DecodeJson()  {
+	
+}
